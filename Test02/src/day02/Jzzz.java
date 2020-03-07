@@ -1,6 +1,6 @@
-package day01;
+package day02;
 
-public class Zj {
+public class Jzzz {
 	public static void main(String[] args) {
 		System.out.println("1234");
 	}
